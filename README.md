@@ -17,14 +17,8 @@
    ```bash
    pip install smtplib colorama pystyle
 Prepare Your Combo List: Create a combo.txt file in the root directory. Each line should contain a combo in the format:
-
-scss
-Copy code
 email@example.com:password123
 Run the Checker: Run the script and provide the number of threads you want to use.
-
-bash
-Copy code
 python checker.py
 Watch the Magic ✨:
 
