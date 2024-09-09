@@ -1,7 +1,5 @@
 # 📧 Bobe's HMC - Hotmail Checker 🔥
 
-Welcome to **Bobe's HMC** – the ultimate multithreaded Hotmail/Office365 SMTP combo checker! 🚀 This tool checks email and password combinations against the Office365 SMTP server with real-time stats, progress updates, and detailed logging. Fast, efficient, and accurate – a must-have tool for Hotmail combo checking enthusiasts! 💻
-
 ## 🔥 Features
 
 - **Multithreaded Power** ⚡: Test combos quickly with concurrent threads.
